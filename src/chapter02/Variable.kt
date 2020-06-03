@@ -1,3 +1,5 @@
+package chapter02
+
 import kotlin.random.Random
 
 fun main() {

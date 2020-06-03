@@ -2,7 +2,7 @@
 // 그러나 자바와의 호환성을 위해서는 일치시키는 것이 좋다.
 // 또한 class의 name과 file명이 일치할 필요도 없다.
 // 여러 class가 하나의 파일 안에 들어갈 수 있다.
-package geometry.shapes
+package chapter02.geometry.shapes
 
 import kotlin.random.Random
 

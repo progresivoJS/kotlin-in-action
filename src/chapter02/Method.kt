@@ -1,3 +1,5 @@
+package chapter02
+
 fun max(a: Int, b: Int): Int {
     // Kotlin에서는 if가 expression, 즉 값을 만들어 낸다.
     // Java에서는 statement이다. 값을 만들어 낼 수 없다.

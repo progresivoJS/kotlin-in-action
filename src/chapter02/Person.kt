@@ -1,3 +1,5 @@
+package chapter02
+
 class Person(
         // private field, public getter
         val name: String,
