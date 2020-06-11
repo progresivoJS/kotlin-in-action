@@ -12,4 +12,11 @@ fun main() {
 
     val numbers = setOf(1, 14, 2)
     println(numbers.max())
+
+    // Collection API Extension
+    val stringList: List<String> = listOf("first", "second", "fourteenth")
+    println(stringList.last())
+
+    val numberSet: Collection<Int> = setOf(1, 14, 2)
+    println(numberSet.max())
 }
